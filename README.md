@@ -9,6 +9,8 @@ Time
 - Daniel Garcia de Oliveira
 
 # **Transcrição do código Arduino bluehack_ecobox.ino**
+
+```c
 /* Projeto    : bluehack_ecohack
  * Board      : Arduino MEGA 2560
  * Versão     : 1.0.0
@@ -121,3 +123,4 @@ void loop()
       break;
   }
 }
+```
